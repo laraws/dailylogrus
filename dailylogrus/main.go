@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-const VERSION = "V2"
+const VERSION = "V3"
 
 func main() {
 	fmt.Println("dailylogrus", VERSION)
