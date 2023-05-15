@@ -1,4 +1,4 @@
-module github.com/laraws/dailylogrus
+module github.com/laraws/dailylogrus/v4
 
 go 1.13
 
